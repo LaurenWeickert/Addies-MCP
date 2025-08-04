@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "semesters-dev": {
+      "command": "node",
+      "args": ["C:\\Users\\laure\\CascadeProjects\\semesters-mcp-server\\dist\\index.js"],
+      "env": {}
+    }
+  }
+}
